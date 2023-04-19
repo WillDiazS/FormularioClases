@@ -1,0 +1,38 @@
+h1 {
+    color:gold;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    display:flex;
+       
+}
+
+h1:hover{
+    background-color: black;
+}
+
+.listButtons {
+    margin-top: 30px;;
+}
+
+.listButtons li {
+    
+    display:inline;
+    text-align: center;
+    
+    
+}
+
+.col-6 {
+    margin:auto;
+    margin-top: 25px;
+    margin-bottom: 25px;    
+    border:solid;
+    
+}
+
+.card {
+    border: solid;
+    border-color: black;
+}
+
+
